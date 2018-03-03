@@ -6,3 +6,11 @@ export const firebaseConfig = {
   storageBucket: '',
   messagingSenderId: '',
 };
+
+export const firebaseSdkConfig = {
+  webClientId: '',
+  androidClientId: '',
+  webClientSecret: '',
+  projectId: '',
+  webApiKey: '',
+};
