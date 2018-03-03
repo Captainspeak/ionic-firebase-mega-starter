@@ -82,4 +82,8 @@
     <plugin name="cordova-plugin-ionic-webview" spec="^1.1.16" />
     <plugin name="cordova-plugin-ionic-keyboard" spec="^2.0.5" />
     <engine name="android" spec="~7.0.0" />
+    <plugin name="cordova-plugin-googleplus" spec="^5.2.1">
+        <variable name="REVERSED_CLIENT_ID" value="com.googleusercontent.apps.262973113608-18jq8ap1n1k268q2mufirf3r5v0b880n" />
+    </plugin>
+    <allow-navigation href="http://192.168.0.13:8101" />
 </widget>
